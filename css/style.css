@@ -1,0 +1,29 @@
+/* CSS PERSONALIZZATO */
+
+/* GENERALE */
+
+
+section{
+    margin-bottom: 200px;
+}
+
+
+/* BOX */
+
+
+.box,
+.box-nested{
+    min-height: 50px;
+    background-color: #006cfa;
+    border: 1px solid #ffffff;
+    text-align: center;
+    color: #ffffff;
+    padding: 15px;
+}
+.box-nested{
+    background-color: #00e165;
+    border-color: #006cfa;
+}
+.box-solo{
+    height: 100px;
+}
