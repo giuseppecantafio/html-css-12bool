@@ -72,6 +72,9 @@
 .space-between-xs{
     justify-content: space-between;
 }
+.align-top-xs{
+    align-items: flex-start;
+}
 .align-center-xs{
     align-items: center;
 }
@@ -102,6 +105,9 @@
 .space-between-md{
     justify-content: space-between;
     align-items: center;
+}
+.align-top-md{
+    align-items: flex-start;
 }
 .align-center-md{
     align-items: center;
@@ -134,6 +140,9 @@ text-align: left;
 .space-between-lg{
     justify-content: space-between;
     align-items: center;
+}
+.align-top-lg{
+    align-items: flex-start;
 }
 .align-center-lg{
     align-items: center;
